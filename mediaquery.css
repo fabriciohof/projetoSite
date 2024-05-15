@@ -65,4 +65,7 @@
         display: none;
     }
 
+    .button-wpp .text {
+        display: none;
+    }
 }
