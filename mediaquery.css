@@ -50,6 +50,11 @@
     .areas-nutri{
         flex-direction: column;
     }
+    .nutri img{
+        width: 280px;
+        height: 280px;
+        
+    }
 
 
     footer {
@@ -57,13 +62,7 @@
     }
 
     .button-wpp {
-        bottom: 5px;
-        right: 10px;
-        font-size: 15px;
-        max-width:50px;
-    }
-
-    .button-wpp .text {
         display: none;
     }
+
 }
