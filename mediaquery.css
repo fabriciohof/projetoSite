@@ -7,14 +7,6 @@
         margin-top: 15px;
         font-size: 30px;
     }
-    img {
-        width: 100%;
-    }
-
-    iframe {
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
 
     .header-container {
         width: 100%;
@@ -27,7 +19,6 @@
     }
     
     .header-logo img {
-        width: 200px;
         margin-top: 20px;
     }
 
@@ -47,6 +38,10 @@
 
     .about-container {
         flex-direction: column;
+    }
+
+    .about-container img {
+        width: 100%;
     }
 
     .about-description h2{
