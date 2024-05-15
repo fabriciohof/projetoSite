@@ -57,6 +57,8 @@
     }
 
     .button-wpp {
-        max-width: 50px;
+        overflow-x: hidden;
+        width: 30px;
+        max-width:50px;
     }
 }
