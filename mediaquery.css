@@ -7,6 +7,14 @@
         margin-top: 15px;
         font-size: 30px;
     }
+    img {
+        width: 100%;
+    }
+
+    iframe {
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
 
     .header-container {
         width: 100%;
@@ -50,12 +58,6 @@
     .areas-nutri{
         flex-direction: column;
     }
-    .nutri img{
-        width: 280px;
-        height: 280px;
-        
-    }
-
 
     footer {
         padding: 6px 0;
